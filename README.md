@@ -3,5 +3,6 @@
 ## Sequence
 
 1. first-app-ngmodule
-1. second-app
+1. blank-template
+1. 
 
