@@ -9,5 +9,8 @@
 1. component-styles
 1. component-selector
 1. basics-assignment
+1. data-binding-string-interpolation
+1. data-binding-property-binding
 1. 
+
 
