@@ -1,5 +1,12 @@
 # FirstAppNgmodel
 
+
+# For Installing Bootstrap css
+## Inside the project run
+`npm install --save bootstrap@3`
+
+Replace the `styles.css` mentioned in angular.json to `node_modules/bootstrap/dist/css/bootstrap.min.css`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
 ## Development server
